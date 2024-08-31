@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107055050153",
+    "project_id": "barkodkasam",
+    "storage_bucket": "barkodkasam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107055050153:android:1c3c2c1394822a4cd228b8",
+        "android_client_info": {
+          "package_name": "com.kirtayinteractive.barkodkasam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107055050153-hj34s417so7t72045ad2f5f84q7vsm9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirtayinteractive.barkodkasam",
+            "certificate_hash": "8b5a98ec121df875ba9f044e45b5b9224502222d"
+          }
+        },
+        {
+          "client_id": "107055050153-da7akrh693gpv0pksecibkbfq064cuo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6NXeTuqzM4Bui9FwLsYqy2DzP65R68g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107055050153-da7akrh693gpv0pksecibkbfq064cuo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
